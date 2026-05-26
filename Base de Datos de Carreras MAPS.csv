@@ -1,0 +1,454 @@
+﻿Orden,Materia,Semestre,Bloque,Carrera,Código,Programa,Categoría,Optativa,Lenguaje,SEDI,Estancia Empresarial,Ruta de Enfoque,Ruta_Enfoque
+1,Transformación Digital,1,1,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+2,Estrategia Y Ventaja Competitiva,1,1,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+4,Fundamentos De Programación,1,2,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+7,Administración De Operaciones,2,1,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+8,Emprendimiento,2,1,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+10,Big Data Analitycs,2,2,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+13,Mercados Y Consumidores,3,1,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+14,Fundamentos De Investigación De Mercados,3,1,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+16,La Oferta De Valor Productos Y Servicios,3,2,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+19,Administración De Marcas,4,1,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+20,Administración De Precios,4,1,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+22,Distribución De La Oferta De Valor,4,2,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+25,Comunicación De La Oferta de Valor,5,1,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+26,Estrategias De Redes Sociales,5,1,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+28,Creación De Contenidos Y Storytelling,5,2,Licenciatura en Mercadotecnia,LEM,S24,Tronco Común,0,0,0,0,0,0
+3,SEDI I,1,1,Licenciatura en Mercadotecnia,LEM,S24,SEDI,0,0,I,0,0,0
+6,SEDI II,1,2,Licenciatura en Mercadotecnia,LEM,S24,SEDI,0,0,II,0,0,0
+9,SEDI III,2,1,Licenciatura en Mercadotecnia,LEM,S24,SEDI,0,0,III,0,0,0
+12,SEDI IV,2,2,Licenciatura en Mercadotecnia,LEM,S24,SEDI,0,0,IV,0,0,0
+15,SEDI V,3,1,Licenciatura en Mercadotecnia,LEM,S24,SEDI,0,0,V,0,0,0
+18,SEDI VI,3,2,Licenciatura en Mercadotecnia,LEM,S24,SEDI,0,0,VI,0,0,0
+21,SEDI VII,4,1,Licenciatura en Mercadotecnia,LEM,S24,SEDI,0,0,VII,0,0,0
+24,SEDI VIII,4,2,Licenciatura en Mercadotecnia,LEM,S24,SEDI,0,0,VIII,0,0,0
+27,SEDI IX,5,1,Licenciatura en Mercadotecnia,LEM,S24,SEDI,0,0,IX,0,0,0
+30,SEDI X,5,2,Licenciatura en Mercadotecnia,LEM,S24,SEDI,0,0,X,0,0,0
+33,SEDI XI,6,1,Licenciatura en Mercadotecnia,LEM,S24,SEDI,0,0,XI,0,0,0
+36,SEDI XII,6,2,Licenciatura en Mercadotecnia,LEM,S24,SEDI,0,0,XII,0,0,0
+39,SEDI XIII,7,1,Licenciatura en Mercadotecnia,LEM,S24,SEDI,0,0,XIII,0,0,0
+42,SEDI XIV,7,2,Licenciatura en Mercadotecnia,LEM,S24,SEDI,0,0,XIV,0,0,0
+5,Inglés I,1,2,Licenciatura en Mercadotecnia,LEM,S24,Lenguaje,0,I,0,0,0,0
+11,Inglés II,2,2,Licenciatura en Mercadotecnia,LEM,S24,Lenguaje,0,II,0,0,0,0
+17,Inglés III,3,2,Licenciatura en Mercadotecnia,LEM,S24,Lenguaje,0,III,0,0,0,0
+23,Inglés IV,4,2,Licenciatura en Mercadotecnia,LEM,S24,Lenguaje,0,IV,0,0,0,0
+29,Inglés V,5,2,Licenciatura en Mercadotecnia,LEM,S24,Lenguaje,0,V,0,0,0,0
+35,Inglés VI,6,2,Licenciatura en Mercadotecnia,LEM,S24,Lenguaje,0,VI,0,0,0,0
+41,Inglés VII,7,2,Licenciatura en Mercadotecnia,LEM,S24,Lenguaje,0,VII,0,0,0,0
+43,Estancia Empresarial I,8,1,Licenciatura en Mercadotecnia,LEM,S24,Estancia Empresarial,0,0,0,I,0,0
+44,Estancia Empresarial II,8,1,Licenciatura en Mercadotecnia,LEM,S24,Estancia Empresarial,0,0,0,II,0,0
+45,Estancia Empresarial III,8,2,Licenciatura en Mercadotecnia,LEM,S24,Estancia Empresarial,0,0,0,III,0,0
+31,Negociación Y Comunicación Comercial,6,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,I,0,0,0,Gestión De Ventas Estratégicas         ,LEM_Gestión De Ventas Estratégicas         
+32,Administración De Cuentas Clave,6,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,II,0,0,0,Gestión De Ventas Estratégicas         ,LEM_Gestión De Ventas Estratégicas         
+34,Habilidades Para La Venta,6,2,Licenciatura en Mercadotecnia,LEM,S24,Optativa,III,0,0,0,Gestión De Ventas Estratégicas         ,LEM_Gestión De Ventas Estratégicas         
+37,Administración De Equipos De Venta,7,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,IV,0,0,0,Gestión De Ventas Estratégicas         ,LEM_Gestión De Ventas Estratégicas         
+38,Servicio Y Experiencia Al Cliente,7,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,V,0,0,0,Gestión De Ventas Estratégicas         ,LEM_Gestión De Ventas Estratégicas         
+40,Administración Y Promoción De Ventas,7,2,Licenciatura en Mercadotecnia,LEM,S24,Optativa,VI,0,0,0,Gestión De Ventas Estratégicas         ,LEM_Gestión De Ventas Estratégicas         
+31,Métodos De Investigación Cualitativa,6,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,I,0,0,0,Inteligencia De Mercados     ,LEM_Inteligencia De Mercados     
+32,Métodos De Investigación Cuantitativa,6,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,II,0,0,0,Inteligencia De Mercados     ,LEM_Inteligencia De Mercados     
+34,Estadística Descriptiva E Inferencial,6,2,Licenciatura en Mercadotecnia,LEM,S24,Optativa,III,0,0,0,Inteligencia De Mercados     ,LEM_Inteligencia De Mercados     
+37,Estadística Multivariante,7,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,IV,0,0,0,Inteligencia De Mercados     ,LEM_Inteligencia De Mercados     
+38,Analítica Aplicada De Marketing,7,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,V,0,0,0,Inteligencia De Mercados     ,LEM_Inteligencia De Mercados     
+40,Visualización De Datos Y Storytelling,7,2,Licenciatura en Mercadotecnia,LEM,S24,Optativa,VI,0,0,0,Inteligencia De Mercados     ,LEM_Inteligencia De Mercados     
+31,Search Engine Optimization (SEO),6,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,I,0,0,0,Estrategias De Mercadotecnia En Buscadores Y Comercio Electrónico (Marketing Digital Estratégico) ,LEM_Estrategias De Mercadotecnia En Buscadores Y Comercio Electrónico (Marketing Digital Estratégico) 
+32,Search Engine Marketing (SEM),6,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,II,0,0,0,Estrategias De Mercadotecnia En Buscadores Y Comercio Electrónico (Marketing Digital Estratégico) ,LEM_Estrategias De Mercadotecnia En Buscadores Y Comercio Electrónico (Marketing Digital Estratégico) 
+34,Marketing Automation,6,2,Licenciatura en Mercadotecnia,LEM,S24,Optativa,III,0,0,0,Estrategias De Mercadotecnia En Buscadores Y Comercio Electrónico (Marketing Digital Estratégico) ,LEM_Estrategias De Mercadotecnia En Buscadores Y Comercio Electrónico (Marketing Digital Estratégico) 
+37,Growth Hacking,7,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,IV,0,0,0,Estrategias De Mercadotecnia En Buscadores Y Comercio Electrónico (Marketing Digital Estratégico) ,LEM_Estrategias De Mercadotecnia En Buscadores Y Comercio Electrónico (Marketing Digital Estratégico) 
+38,Comercio Electrónico,7,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,V,0,0,0,Estrategias De Mercadotecnia En Buscadores Y Comercio Electrónico (Marketing Digital Estratégico) ,LEM_Estrategias De Mercadotecnia En Buscadores Y Comercio Electrónico (Marketing Digital Estratégico) 
+40,Analítica Digital,7,2,Licenciatura en Mercadotecnia,LEM,S24,Optativa,VI,0,0,0,Estrategias De Mercadotecnia En Buscadores Y Comercio Electrónico (Marketing Digital Estratégico) ,LEM_Estrategias De Mercadotecnia En Buscadores Y Comercio Electrónico (Marketing Digital Estratégico) 
+31,Diseño De Productos,6,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,I,0,0,0,Estrategia Publicitaria           ,LEM_Estrategia Publicitaria           
+32,Publicidad,6,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,II,0,0,0,Estrategia Publicitaria           ,LEM_Estrategia Publicitaria           
+34,Sociología Del Consumo,6,2,Licenciatura en Mercadotecnia,LEM,S24,Optativa,III,0,0,0,Estrategia Publicitaria           ,LEM_Estrategia Publicitaria           
+37,Comercio Detallista ,7,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,IV,0,0,0,Estrategia Publicitaria           ,LEM_Estrategia Publicitaria           
+38,UX/UI,7,1,Licenciatura en Mercadotecnia,LEM,S24,Optativa,V,0,0,0,Estrategia Publicitaria           ,LEM_Estrategia Publicitaria           
+40,Diseño Para Medios Digitales,7,2,Licenciatura en Mercadotecnia,LEM,S24,Optativa,VI,0,0,0,Estrategia Publicitaria           ,LEM_Estrategia Publicitaria           
+1,Fundamentos De Diseño Gráfico,1,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+2,Introducción A La Animación,1,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+4,Fundamentos De Programación,1,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+7,Fundamentos De Dibujo Y Representación,2,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+8,Pre-Producción Para La Animación,2,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+10,Producción Audiovisual,2,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+13,Ilustración Digital,3,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+14,Animación 2D,3,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+16,Desarrollo De Aplicaciones Móviles,3,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+19,Diseño Para Medios Digitales,4,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+20,Modelación Y Animación 3D,4,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+22,UX/UI,4,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+25,Identidad Corporativa,5,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+26,Efectos Visuales,5,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+28,Mercadotecnia Digital,5,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Tronco Común,0,0,0,0,0,0
+3,SEDI I,1,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,SEDI,0,0,I,0,0,0
+6,SEDI II,1,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,SEDI,0,0,II,0,0,0
+9,SEDI III,2,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,SEDI,0,0,III,0,0,0
+12,SEDI IV,2,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,SEDI,0,0,IV,0,0,0
+15,SEDI V,3,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,SEDI,0,0,V,0,0,0
+18,SEDI VI,3,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,SEDI,0,0,VI,0,0,0
+21,SEDI VII,4,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,SEDI,0,0,VII,0,0,0
+24,SEDI VIII,4,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,SEDI,0,0,VIII,0,0,0
+27,SEDI IX,5,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,SEDI,0,0,IX,0,0,0
+30,SEDI X,5,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,SEDI,0,0,X,0,0,0
+33,SEDI XI,6,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,SEDI,0,0,XI,0,0,0
+36,SEDI XII,6,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,SEDI,0,0,XII,0,0,0
+39,SEDI XIII,7,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,SEDI,0,0,XIII,0,0,0
+42,SEDI XIV,7,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,SEDI,0,0,XIV,0,0,0
+5,Inglés I,1,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Lenguaje,0,I,0,0,0,0
+11,Inglés II,2,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Lenguaje,0,II,0,0,0,0
+17,Inglés III,3,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Lenguaje,0,III,0,0,0,0
+23,Inglés IV,4,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Lenguaje,0,IV,0,0,0,0
+29,Inglés V,5,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Lenguaje,0,V,0,0,0,0
+35,Inglés VI,6,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Lenguaje,0,VI,0,0,0,0
+41,Inglés VII,7,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Lenguaje,0,VII,0,0,0,0
+43,Estancia Empresarial I,8,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Estancia Empresarial,0,0,0,I,0,0
+44,Estancia Empresarial II,8,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Estancia Empresarial,0,0,0,II,0,0
+45,Estancia Empresarial III,8,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Estancia Empresarial,0,0,0,III,0,0
+1,Transformación Digital ,1,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+2,Estrategia Y Ventaja Competitiva,1,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+4,Fundamentos De Programación,1,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+7,Administración De Operaciones ,2,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+8,Emprendimiento ,2,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+10,Big Data Analytics,2,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+13,Economía Política Internacional,3,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+14,Geografía Política,3,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+16,Estrategias Para El Comercio Global,3,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+19,Sistemas E Infraestructura Logística,4,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+20,Gestión De Transportes,4,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+22,Administración De La Cadena De Suministros,4,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+25,Tratados Internacionales Y Comercio Exterior,5,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+26,Documentación Y Trámites Aduanales,5,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+28,Compras Y Desarrollo De Proveedores ,5,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Tronco Común,0,0,0,0,0,0
+3,SEDI I,1,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,SEDI,0,0,I,0,0,0
+6,SEDI II,1,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,SEDI,0,0,II,0,0,0
+9,SEDI III,2,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,SEDI,0,0,III,0,0,0
+12,SEDI IV,2,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,SEDI,0,0,IV,0,0,0
+15,SEDI V,3,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,SEDI,0,0,V,0,0,0
+18,SEDI VI,3,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,SEDI,0,0,VI,0,0,0
+21,SEDI VII,4,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,SEDI,0,0,VII,0,0,0
+24,SEDI VIII,4,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,SEDI,0,0,VIII,0,0,0
+27,SEDI IX,5,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,SEDI,0,0,IX,0,0,0
+30,SEDI X,5,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,SEDI,0,0,X,0,0,0
+33,SEDI XI,6,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,SEDI,0,0,XI,0,0,0
+36,SEDI XII,6,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,SEDI,0,0,XII,0,0,0
+39,SEDI XIII,7,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,SEDI,0,0,XIII,0,0,0
+42,SEDI XIV,7,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,SEDI,0,0,XIV,0,0,0
+5,Inglés I,1,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Lenguaje,0,I,0,0,0,0
+11,Inglés II,2,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Lenguaje,0,II,0,0,0,0
+17,Inglés III,3,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Lenguaje,0,III,0,0,0,0
+23,Inglés IV,4,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Lenguaje,0,IV,0,0,0,0
+29,Inglés V,5,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Lenguaje,0,V,0,0,0,0
+35,Inglés VI,6,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Lenguaje,0,VI,0,0,0,0
+41,Inglés VII,7,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Lenguaje,0,VII,0,0,0,0
+43,Estancia Empresarial I,8,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Estancia Empresarial,0,0,0,I,0,0
+44,Estancia Empresarial II,8,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Estancia Empresarial,0,0,0,II,0,0
+45,Estancia Empresarial III,8,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Estancia Empresarial,0,0,0,III,0,0
+1,Ciencias De La Ingenieria,1,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+2,Fundamentos De Programación,1,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+4,Dibujo Computarizado,1,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+7,Procesos De Manufactura,2,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+8,Administración De Operaciones,2,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+10,Probabilidad Y Estadística Para Ciencia De Datos,2,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+13,Mecanica De Materiales,3,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+14,Matemáticas Avanzadas,3,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+16,Circuitos Electronicos Y Electricos,3,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+19,Ingenieria De Control,4,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+20,Automatizacion Industrial,4,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+22,Diseño Mecatronico,4,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+25,Control Digital,5,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+26,Róbatica Industrial,5,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+28,Diseño de Redes Industriales,5,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Tronco Común,0,0,0,0,0,0
+3,SEDI I,1,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,SEDI,0,0,I,0,0,0
+6,SEDI II,1,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,SEDI,0,0,II,0,0,0
+9,SEDI III,2,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,SEDI,0,0,III,0,0,0
+12,SEDI IV,2,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,SEDI,0,0,IV,0,0,0
+15,SEDI V,3,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,SEDI,0,0,V,0,0,0
+18,SEDI VI,3,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,SEDI,0,0,VI,0,0,0
+21,SEDI VII,4,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,SEDI,0,0,VII,0,0,0
+24,SEDI VIII,4,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,SEDI,0,0,VIII,0,0,0
+27,SEDI IX,5,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,SEDI,0,0,IX,0,0,0
+30,SEDI X,5,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,SEDI,0,0,X,0,0,0
+33,SEDI XI,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,SEDI,0,0,XI,0,0,0
+36,SEDI XII,6,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,SEDI,0,0,XII,0,0,0
+39,SEDI XIII,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,SEDI,0,0,XIII,0,0,0
+42,SEDI XIV,7,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,SEDI,0,0,XIV,0,0,0
+5,Inglés I,1,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Lenguaje,0,I,0,0,0,0
+11,Inglés II,2,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Lenguaje,0,II,0,0,0,0
+17,Inglés III,3,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Lenguaje,0,III,0,0,0,0
+23,Inglés IV,4,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Lenguaje,0,IV,0,0,0,0
+29,Inglés V,5,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Lenguaje,0,V,0,0,0,0
+35,Inglés VI,6,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Lenguaje,0,VI,0,0,0,0
+41,Inglés VII,7,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Lenguaje,0,VII,0,0,0,0
+43,Estancia Empresarial I,8,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Estancia Empresarial,0,0,0,I,0,0
+44,Estancia Empresarial II,8,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Estancia Empresarial,0,0,0,II,0,0
+45,Estancia Empresarial III,8,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Estancia Empresarial,0,0,0,III,0,0
+1,Ciencias De La Ingenieria,1,1,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+2,Fundamentos De Programación,1,1,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+4,Dibujo Computarizado,1,2,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+7,Procesos De Manufactura,2,1,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+8,Administración De Operaciones,2,1,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+10,Probabilidad Y Estadística Para Ciencia De Datos,2,2,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+13,Ingeniería De Precisión ,3,1,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+14,Diseño Del Trabajo Y Entornos Industriales,3,1,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+16,Cadena De Valor Adaptativa Y Logística,3,2,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+19,Gestión De Operaciones Y Producción ,4,1,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+20,Excelencia Operacional Y Sustentabilidad,4,1,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+22,Herramientas Para La Medición Y Mejora De La Producción,4,2,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+25,Gestión De La Calidad,5,1,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+26,Evaluación De Proyectos,5,1,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+28,Simulación De Eventos Discretos,5,2,Licenciatura en Ingeniería Industrial,IIN,S24,Tronco Común,0,0,0,0,0,0
+3,SEDI I,1,1,Licenciatura en Ingeniería Industrial,IIN,S24,SEDI,0,0,I,0,0,0
+6,SEDI II,1,2,Licenciatura en Ingeniería Industrial,IIN,S24,SEDI,0,0,II,0,0,0
+9,SEDI III,2,1,Licenciatura en Ingeniería Industrial,IIN,S24,SEDI,0,0,III,0,0,0
+12,SEDI IV,2,2,Licenciatura en Ingeniería Industrial,IIN,S24,SEDI,0,0,IV,0,0,0
+15,SEDI V,3,1,Licenciatura en Ingeniería Industrial,IIN,S24,SEDI,0,0,V,0,0,0
+18,SEDI VI,3,2,Licenciatura en Ingeniería Industrial,IIN,S24,SEDI,0,0,VI,0,0,0
+21,SEDI VII,4,1,Licenciatura en Ingeniería Industrial,IIN,S24,SEDI,0,0,VII,0,0,0
+24,SEDI VIII,4,2,Licenciatura en Ingeniería Industrial,IIN,S24,SEDI,0,0,VIII,0,0,0
+27,SEDI IX,5,1,Licenciatura en Ingeniería Industrial,IIN,S24,SEDI,0,0,IX,0,0,0
+30,SEDI X,5,2,Licenciatura en Ingeniería Industrial,IIN,S24,SEDI,0,0,X,0,0,0
+33,SEDI XI,6,1,Licenciatura en Ingeniería Industrial,IIN,S24,SEDI,0,0,XI,0,0,0
+36,SEDI XII,6,2,Licenciatura en Ingeniería Industrial,IIN,S24,SEDI,0,0,XII,0,0,0
+39,SEDI XIII,7,1,Licenciatura en Ingeniería Industrial,IIN,S24,SEDI,0,0,XIII,0,0,0
+42,SEDI XIV,7,2,Licenciatura en Ingeniería Industrial,IIN,S24,SEDI,0,0,XIV,0,0,0
+5,Inglés I,1,2,Licenciatura en Ingeniería Industrial,IIN,S24,Lenguaje,0,I,0,0,0,0
+11,Inglés II,2,2,Licenciatura en Ingeniería Industrial,IIN,S24,Lenguaje,0,II,0,0,0,0
+17,Inglés III,3,2,Licenciatura en Ingeniería Industrial,IIN,S24,Lenguaje,0,III,0,0,0,0
+23,Inglés IV,4,2,Licenciatura en Ingeniería Industrial,IIN,S24,Lenguaje,0,IV,0,0,0,0
+29,Inglés V,5,2,Licenciatura en Ingeniería Industrial,IIN,S24,Lenguaje,0,V,0,0,0,0
+35,Inglés VI,6,2,Licenciatura en Ingeniería Industrial,IIN,S24,Lenguaje,0,VI,0,0,0,0
+41,Inglés VII,7,2,Licenciatura en Ingeniería Industrial,IIN,S24,Lenguaje,0,VII,0,0,0,0
+43,Estancia Empresarial I,8,1,Licenciatura en Ingeniería Industrial,IIN,S24,Estancia Empresarial,0,0,0,I,0,0
+44,Estancia Empresarial II,8,1,Licenciatura en Ingeniería Industrial,IIN,S24,Estancia Empresarial,0,0,0,II,0,0
+45,Estancia Empresarial III,8,2,Licenciatura en Ingeniería Industrial,IIN,S24,Estancia Empresarial,0,0,0,III,0,0
+1,Fundamentos De Programación,1,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+2,Computación En La Nube,1,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+4,Probabilidad Y Estadística Para Ciencia De Datos,1,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+7,Programación Orientada A Objetos,2,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+8,Sistemas Operativos,2,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+10,Ciencia De Datos,2,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+13,Estructuras De Datos,3,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+14,Bases De Datos,3,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+16,Metodologías Ágiles,3,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+19,Desarrollo Full Stack,4,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+20,Gestión De Redes,4,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+22,Fundamentos De DevOps,4,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+25,Desarrollo De Aplicaciones Móviles,5,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+26,Ingeniería De Software,5,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+28,Ciberseguridad,5,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Tronco Común,0,0,0,0,0,0
+3,SEDI I,1,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,SEDI,0,0,I,0,0,0
+6,SEDI II,1,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,SEDI,0,0,II,0,0,0
+9,SEDI III,2,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,SEDI,0,0,III,0,0,0
+12,SEDI IV,2,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,SEDI,0,0,IV,0,0,0
+15,SEDI V,3,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,SEDI,0,0,V,0,0,0
+18,SEDI VI,3,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,SEDI,0,0,VI,0,0,0
+21,SEDI VII,4,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,SEDI,0,0,VII,0,0,0
+24,SEDI VIII,4,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,SEDI,0,0,VIII,0,0,0
+27,SEDI IX,5,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,SEDI,0,0,IX,0,0,0
+30,SEDI X,5,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,SEDI,0,0,X,0,0,0
+33,SEDI XI,6,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,SEDI,0,0,XI,0,0,0
+36,SEDI XII,6,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,SEDI,0,0,XII,0,0,0
+39,SEDI XIII,7,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,SEDI,0,0,XIII,0,0,0
+42,SEDI XIV,7,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,SEDI,0,0,XIV,0,0,0
+5,Inglés I,1,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Lenguaje,0,I,0,0,0,0
+11,Inglés II,2,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Lenguaje,0,II,0,0,0,0
+17,Inglés III,3,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Lenguaje,0,III,0,0,0,0
+23,Inglés IV,4,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Lenguaje,0,IV,0,0,0,0
+29,Inglés V,5,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Lenguaje,0,V,0,0,0,0
+35,Inglés VI,6,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Lenguaje,0,VI,0,0,0,0
+41,Inglés VII,7,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Lenguaje,0,VII,0,0,0,0
+43,Estancia Empresarial I,8,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Estancia Empresarial,0,0,0,I,0,0
+44,Estancia Empresarial II,8,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Estancia Empresarial,0,0,0,II,0,0
+45,Estancia Empresarial III,8,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Estancia Empresarial,0,0,0,III,0,0
+31,Negocios en América,6,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Optativa,I,0,0,0,Negocio Internacionales,LCN_Negocio Internacionales
+32,Finanzas Internacionales,6,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Optativa,II,0,0,0,Negocio Internacionales,LCN_Negocio Internacionales
+34,Importación y Exportación,6,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Optativa,III,0,0,0,Negocio Internacionales,LCN_Negocio Internacionales
+37,Negocios en Asia y Europa,7,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Optativa,IV,0,0,0,Negocio Internacionales,LCN_Negocio Internacionales
+38,Análisis de Mercados Internacionales,7,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Optativa,V,0,0,0,Negocio Internacionales,LCN_Negocio Internacionales
+40,Contratos Internacionales,7,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Optativa,VI,0,0,0,Negocio Internacionales,LCN_Negocio Internacionales
+31,"Empaque, Embalaje y Etiquetado",6,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Optativa,I,0,0,0,Logística y Cadena de Suministro,LCN_Logística y Cadena de Suministro
+32,"Gestión de Centros de Distribución, Bodegas y Almacenes",6,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Optativa,II,0,0,0,Logística y Cadena de Suministro,LCN_Logística y Cadena de Suministro
+34,Riesgos Financieros y Comerciales en Logística,6,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Optativa,III,0,0,0,Logística y Cadena de Suministro,LCN_Logística y Cadena de Suministro
+37,Planeación de la Cadena de Suministro,7,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Optativa,IV,0,0,0,Logística y Cadena de Suministro,LCN_Logística y Cadena de Suministro
+38,Merceología,7,1,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Optativa,V,0,0,0,Logística y Cadena de Suministro,LCN_Logística y Cadena de Suministro
+40,Administración de Inventarios,7,2,Licenciatura en Comercio y Negocios Internacionales,LCN,S24,Optativa,VI,0,0,0,Logística y Cadena de Suministro,LCN_Logística y Cadena de Suministro
+31,Semiótica Del Diseño Gráfico,6,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,I,0,0,0,Diseño Gráfico            ,LDG_Diseño Gráfico            
+32,Producción Editorial,6,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,II,0,0,0,Diseño Gráfico            ,LDG_Diseño Gráfico            
+34,Empaque Y Embalaje,6,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,III,0,0,0,Diseño Gráfico            ,LDG_Diseño Gráfico            
+37,Fotografía Digital,7,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,IV,0,0,0,Diseño Gráfico            ,LDG_Diseño Gráfico            
+38,Cultura Visual,7,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,V,0,0,0,Diseño Gráfico            ,LDG_Diseño Gráfico            
+40,Emprendimiento,7,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,VI,0,0,0,Diseño Gráfico            ,LDG_Diseño Gráfico            
+31,Inteligencia Artificial,6,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,I,0,0,0,Animación      ,LDG_Animación      
+32,Producción Y Composición Digital,6,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,II,0,0,0,Animación      ,LDG_Animación      
+34,Diseño Sonoro,6,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,III,0,0,0,Animación      ,LDG_Animación      
+37,Renderización E Iluminación,7,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,IV,0,0,0,Animación      ,LDG_Animación      
+38,Cultura Visual,7,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,V,0,0,0,Animación      ,LDG_Animación      
+40,Transformación Digital,7,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,VI,0,0,0,Animación      ,LDG_Animación      
+31,Programación De Videojuegos,6,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,I,0,0,0,Producción Multimedia         ,LDG_Producción Multimedia         
+32,Aplicaciones Interactivas,6,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,II,0,0,0,Producción Multimedia         ,LDG_Producción Multimedia         
+34,Diseño Y Animación De Videojuegos,6,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,III,0,0,0,Producción Multimedia         ,LDG_Producción Multimedia         
+37,Diseño Y Arquitecturas De Software,7,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,IV,0,0,0,Producción Multimedia         ,LDG_Producción Multimedia         
+38,Analítica Digital,7,1,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,V,0,0,0,Producción Multimedia         ,LDG_Producción Multimedia         
+40,Transformación Digital,7,2,Licenciatura en Diseño Gráfico y Animación,LDG,S24,Optativa,VI,0,0,0,Producción Multimedia         ,LDG_Producción Multimedia         
+31,Auditoría Y Revisión De Sistemas De Calidad,6,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,I,0,0,0,Calidad Automotriz   ,IIN_Calidad Automotriz   
+32,Gestión Y Control De Documentos,6,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,II,0,0,0,Calidad Automotriz   ,IIN_Calidad Automotriz   
+34,Normatividad Automotriz,6,2,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,III,0,0,0,Calidad Automotriz   ,IIN_Calidad Automotriz   
+37,Core Tools I,7,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,IV,0,0,0,Calidad Automotriz   ,IIN_Calidad Automotriz   
+38,Core Tools Ii,7,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,V,0,0,0,Calidad Automotriz   ,IIN_Calidad Automotriz   
+40,Liderazgo Estratégico,7,2,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,VI,0,0,0,Calidad Automotriz   ,IIN_Calidad Automotriz   
+31,Fundamentos De Gestión De Proyectos,6,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,I,0,0,0,Gestión De Proyectos Green Belt      ,IIN_Gestión De Proyectos Green Belt      
+32,Herramientas Y Software Para La Gestión De Proyectos,6,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,II,0,0,0,Gestión De Proyectos Green Belt      ,IIN_Gestión De Proyectos Green Belt      
+34,Compras Y Desarrollo De Proveedores,6,2,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,III,0,0,0,Gestión De Proyectos Green Belt      ,IIN_Gestión De Proyectos Green Belt      
+37,Lean Six Sigma Y Metodología Dmaic,7,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,IV,0,0,0,Gestión De Proyectos Green Belt      ,IIN_Gestión De Proyectos Green Belt      
+38,Métodos Y Herramientas Avanzadas Green Belt,7,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,V,0,0,0,Gestión De Proyectos Green Belt      ,IIN_Gestión De Proyectos Green Belt      
+40,Proyecto De Mejora Continua,7,2,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,VI,0,0,0,Gestión De Proyectos Green Belt      ,IIN_Gestión De Proyectos Green Belt      
+31,Control Integral De Piso De Producción,6,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,I,0,0,0,Equipos De Alto Rendimiento,IIN_Equipos De Alto Rendimiento
+32,Gestión De Documentos Clave Para Producción,6,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,II,0,0,0,Equipos De Alto Rendimiento,IIN_Equipos De Alto Rendimiento
+34,Fundamentos De Seguridad Industrial,6,2,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,III,0,0,0,Equipos De Alto Rendimiento,IIN_Equipos De Alto Rendimiento
+37,Cultura Organizacional,7,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,IV,0,0,0,Equipos De Alto Rendimiento,IIN_Equipos De Alto Rendimiento
+38,Administración Del Cambio,7,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,V,0,0,0,Equipos De Alto Rendimiento,IIN_Equipos De Alto Rendimiento
+40,Liderazgo Estratégico,7,2,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,VI,0,0,0,Equipos De Alto Rendimiento,IIN_Equipos De Alto Rendimiento
+31,Herramientas Tecnológicas Para Análisis De Datos I,6,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,I,0,0,0,Análisis De Datos Y Digitalización     ,IIN_Análisis De Datos Y Digitalización     
+32,Herramientas Tecnológicas Para Análisis De Datos Ii,6,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,II,0,0,0,Análisis De Datos Y Digitalización     ,IIN_Análisis De Datos Y Digitalización     
+34,Estrategia Y Toma De Decisiones Basada En Datos,6,2,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,III,0,0,0,Análisis De Datos Y Digitalización     ,IIN_Análisis De Datos Y Digitalización     
+37,Diseño Mecánico,7,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,IV,0,0,0,Análisis De Datos Y Digitalización     ,IIN_Análisis De Datos Y Digitalización     
+38,Transformación Digital,7,1,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,V,0,0,0,Análisis De Datos Y Digitalización     ,IIN_Análisis De Datos Y Digitalización     
+40,Modelado Y Simulación En La Gestión De Riesgos,7,2,Licenciatura en Ingeniería Industrial,IIN,S24,Optativa,VI,0,0,0,Análisis De Datos Y Digitalización     ,IIN_Análisis De Datos Y Digitalización     
+31,Analítica De Big Data,6,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,I,0,0,0,Análisis De Datos       ,IDS_Análisis De Datos       
+32,Visualización De Datos Masivos,6,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,II,0,0,0,Análisis De Datos       ,IDS_Análisis De Datos       
+34,Análisis De Datos Con PowerBI,6,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,III,0,0,0,Análisis De Datos       ,IDS_Análisis De Datos       
+37,Algoritmos De Aprendizaje Automático,7,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,IV,0,0,0,Análisis De Datos       ,IDS_Análisis De Datos       
+38,Gestión De Tecnologías De Información,7,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,V,0,0,0,Análisis De Datos       ,IDS_Análisis De Datos       
+40,Sistemas Y Tecnologías De Administración Del Conocimiento,7,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,VI,0,0,0,Análisis De Datos       ,IDS_Análisis De Datos       
+31,Programación De Videojuegos,6,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,I,0,0,0,Diseño Y Programación De Videojuegos       ,IDS_Diseño Y Programación De Videojuegos       
+32,Gestión Y Automatización De Pruebas De Software,6,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,II,0,0,0,Diseño Y Programación De Videojuegos       ,IDS_Diseño Y Programación De Videojuegos       
+34,Aplicaciones Interactivas,6,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,III,0,0,0,Diseño Y Programación De Videojuegos       ,IDS_Diseño Y Programación De Videojuegos       
+37,Diseño Y Arquitecturas De Software,7,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,IV,0,0,0,Diseño Y Programación De Videojuegos       ,IDS_Diseño Y Programación De Videojuegos       
+38,Diseño Y Animación De Videojuegos,7,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,V,0,0,0,Diseño Y Programación De Videojuegos       ,IDS_Diseño Y Programación De Videojuegos       
+40,Producción Y Composición Digital,7,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,VI,0,0,0,Diseño Y Programación De Videojuegos       ,IDS_Diseño Y Programación De Videojuegos       
+31,Inteligencia Artificial,6,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,I,0,0,0,Inteligencia Artificial,IDS_Inteligencia Artificial
+32,Visualización De Datos Masivos,6,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,II,0,0,0,Inteligencia Artificial,IDS_Inteligencia Artificial
+34,Algoritmos De Aprendizaje Automático,6,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,III,0,0,0,Inteligencia Artificial,IDS_Inteligencia Artificial
+37,Fundamentos De Computación Cuántica,7,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,IV,0,0,0,Inteligencia Artificial,IDS_Inteligencia Artificial
+38,Tendencias Tecnológicas,7,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,V,0,0,0,Inteligencia Artificial,IDS_Inteligencia Artificial
+40,Sistemas Y Tecnologías De Administración Del Conocimiento,7,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,VI,0,0,0,Inteligencia Artificial,IDS_Inteligencia Artificial
+31,Especialización En Devops,6,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,I,0,0,0,Metodología DevOps,IDS_Metodología DevOps
+32,Gestión Y Automatización De Pruebas De Software,6,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,II,0,0,0,Metodología DevOps,IDS_Metodología DevOps
+34,Diseño Y Arquitecturas De Software,6,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,III,0,0,0,Metodología DevOps,IDS_Metodología DevOps
+37,Herramientas De Tecnologías De Información,7,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,IV,0,0,0,Metodología DevOps,IDS_Metodología DevOps
+38,Programación Con Código Bajo,7,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,V,0,0,0,Metodología DevOps,IDS_Metodología DevOps
+40,Tópico Selecto De Tecnologías De Información,7,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,VI,0,0,0,Metodología DevOps,IDS_Metodología DevOps
+31,Inteligencia De Amenazas Cibernéticas,6,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,I,0,0,0,Ciberseguridad           ,IDS_Ciberseguridad           
+32,Diseño Y Arquitecturas De Software,6,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,II,0,0,0,Ciberseguridad           ,IDS_Ciberseguridad           
+34,Tecnologías De Información De Vanguardia,6,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,III,0,0,0,Ciberseguridad           ,IDS_Ciberseguridad           
+37,Herramientas De Tecnologías De Información,7,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,IV,0,0,0,Ciberseguridad           ,IDS_Ciberseguridad           
+38,Gestión De Tecnologías De Información,7,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,V,0,0,0,Ciberseguridad           ,IDS_Ciberseguridad           
+40,Tópico Selecto De Tecnologías De Información,7,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,VI,0,0,0,Ciberseguridad           ,IDS_Ciberseguridad           
+31,Fundamentos De Big Data,6,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,I,0,0,0,Procesamiento De Datos A Gran Escala         ,IDS_Procesamiento De Datos A Gran Escala         
+32,Programación En Scala Para La Ciencia De Datos,6,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,II,0,0,0,Procesamiento De Datos A Gran Escala         ,IDS_Procesamiento De Datos A Gran Escala         
+34,Aplicaciones De Procesamiento Por Lotes De Datos Distribuidos,6,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,III,0,0,0,Procesamiento De Datos A Gran Escala         ,IDS_Procesamiento De Datos A Gran Escala         
+37,Procesamiento En Tiempo Real De Datos Distribuidos,7,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,IV,0,0,0,Procesamiento De Datos A Gran Escala         ,IDS_Procesamiento De Datos A Gran Escala         
+38,Gestión De Tecnologías De Información,7,1,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,V,0,0,0,Procesamiento De Datos A Gran Escala         ,IDS_Procesamiento De Datos A Gran Escala         
+40,Administración De Big Data En Servidores Distribuidos,7,2,Licenciatura en Ingeniería en Desarrollo de Software,IDS,S24,Optativa,VI,0,0,0,Procesamiento De Datos A Gran Escala         ,IDS_Procesamiento De Datos A Gran Escala         
+31,Fundamentos De Planificación Y Diseño,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,I,0,0,0,Mecatrónica Avanzada          ,IMT_Mecatrónica Avanzada          
+32,Implementación Y Optimización En Manufactura,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,II,0,0,0,Mecatrónica Avanzada          ,IMT_Mecatrónica Avanzada          
+34,Sistemas Hidráulicos Y Neumáticos,6,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,III,0,0,0,Mecatrónica Avanzada          ,IMT_Mecatrónica Avanzada          
+37,Integración De Sistemas Mecatrónicos,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,IV,0,0,0,Mecatrónica Avanzada          ,IMT_Mecatrónica Avanzada          
+38,Fundamentos De Gestión De Proyectos,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,V,0,0,0,Mecatrónica Avanzada          ,IMT_Mecatrónica Avanzada          
+40,Diseño De Celdas De Manufactura,7,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,VI,0,0,0,Mecatrónica Avanzada          ,IMT_Mecatrónica Avanzada          
+31,Programación De Plc,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,I,0,0,0,Automatización Industrial    ,IMT_Automatización Industrial    
+32,Simulación De Procesos Y Gemelos Digitales,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,II,0,0,0,Automatización Industrial    ,IMT_Automatización Industrial    
+34,Robótica Avanzada,6,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,III,0,0,0,Automatización Industrial    ,IMT_Automatización Industrial    
+37,Robótica Móvil,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,IV,0,0,0,Automatización Industrial    ,IMT_Automatización Industrial    
+38,Internet Industrial De Las Cosas Y Sistemas Embebidos,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,V,0,0,0,Automatización Industrial    ,IMT_Automatización Industrial    
+40,Sistemas De Visión Y Procesamiento De Imágenes,7,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,VI,0,0,0,Automatización Industrial    ,IMT_Automatización Industrial    
+31,Fundamentos De Ciencia E Ingeniería De Los Materiales,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,I,0,0,0,Semiconductores Y Micro Manufactura       ,IMT_Semiconductores Y Micro Manufactura       
+32,Teoría De Dispositivos Semiconductores,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,II,0,0,0,Semiconductores Y Micro Manufactura       ,IMT_Semiconductores Y Micro Manufactura       
+34,Introducción Al Empaquetado De Semiconductores,6,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,III,0,0,0,Semiconductores Y Micro Manufactura       ,IMT_Semiconductores Y Micro Manufactura       
+37,Manufactura De Empaquetado De Semiconductores,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,IV,0,0,0,Semiconductores Y Micro Manufactura       ,IMT_Semiconductores Y Micro Manufactura       
+38,Análisis De Elemento Finíto,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,V,0,0,0,Semiconductores Y Micro Manufactura       ,IMT_Semiconductores Y Micro Manufactura       
+40,Empaquetado De Semiconductores Avanzado,7,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,VI,0,0,0,Semiconductores Y Micro Manufactura       ,IMT_Semiconductores Y Micro Manufactura       
+31,Sistemas De Control Embebido,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,I,0,0,0,Sistemas De Control ,IMT_Sistemas De Control 
+32,Control Avanzado,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,II,0,0,0,Sistemas De Control ,IMT_Sistemas De Control 
+34,Automatización Y Control De Procesos De Fabricación,6,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,III,0,0,0,Sistemas De Control ,IMT_Sistemas De Control 
+37,Control De Redes Y Comunicación Máquina A Máquina,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,IV,0,0,0,Sistemas De Control ,IMT_Sistemas De Control 
+38,Sistemas De Control No Lineales,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,V,0,0,0,Sistemas De Control ,IMT_Sistemas De Control 
+40,Simulación Y Diseño De Sistemas De Control,7,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,VI,0,0,0,Sistemas De Control ,IMT_Sistemas De Control 
+31,Actuadores Y Sistemas De Dirección,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,I,0,0,0,Vehículos Autónomos            ,IMT_Vehículos Autónomos            
+32,Sistemas De Control Y Navegación,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,II,0,0,0,Vehículos Autónomos            ,IMT_Vehículos Autónomos            
+34,Integración De Tecnologías De Vehículos Conectados,6,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,III,0,0,0,Vehículos Autónomos            ,IMT_Vehículos Autónomos            
+37,Sistemas De Seguridad Activa Y Pasiva,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,IV,0,0,0,Vehículos Autónomos            ,IMT_Vehículos Autónomos            
+38,Potencia Automotriz,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,V,0,0,0,Vehículos Autónomos            ,IMT_Vehículos Autónomos            
+40,Diseño De Sistemas De Seguridad De Vehículos Autónomos,7,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,VI,0,0,0,Vehículos Autónomos            ,IMT_Vehículos Autónomos            
+31,Ciencia De Datos,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,I,0,0,0,Inteligencia Artificial,IMT_Inteligencia Artificial
+32,Inteligencia Artificial,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,II,0,0,0,Inteligencia Artificial,IMT_Inteligencia Artificial
+34,Optimización De Trayectorias De Robots,6,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,III,0,0,0,Inteligencia Artificial,IMT_Inteligencia Artificial
+37,Sistemas De Visión Artificial,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,IV,0,0,0,Inteligencia Artificial,IMT_Inteligencia Artificial
+38,Algoritmos De Aprendizaje Automático,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,V,0,0,0,Inteligencia Artificial,IMT_Inteligencia Artificial
+40,Predicción De Fallas Para Mantenimiento,7,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,VI,0,0,0,Inteligencia Artificial,IMT_Inteligencia Artificial
+31,Materiales Sostenibles,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,I,0,0,0,Diseño De Procesos Sostenibles De Manufactura  ,IMT_Diseño De Procesos Sostenibles De Manufactura  
+32,Procesos De Manufactura Y Gestión De Residuos,6,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,II,0,0,0,Diseño De Procesos Sostenibles De Manufactura  ,IMT_Diseño De Procesos Sostenibles De Manufactura  
+34,Tecnologías De Baterías Y Almacenamiento,6,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,III,0,0,0,Diseño De Procesos Sostenibles De Manufactura  ,IMT_Diseño De Procesos Sostenibles De Manufactura  
+37,Automatización Verde En La Manufactura,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,IV,0,0,0,Diseño De Procesos Sostenibles De Manufactura  ,IMT_Diseño De Procesos Sostenibles De Manufactura  
+38,Diseño De Productos Eco Innovadores,7,1,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,V,0,0,0,Diseño De Procesos Sostenibles De Manufactura  ,IMT_Diseño De Procesos Sostenibles De Manufactura  
+40,Análisis Y Evaluación De Ciclo De Vida Y Ecoeficiencia,7,2,Licenciatura en Ingeniería en Mecatrónica,IMT,S24,Optativa,VI,0,0,0,Diseño De Procesos Sostenibles De Manufactura  ,IMT_Diseño De Procesos Sostenibles De Manufactura  
+1,Transformación Digital,1,1,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+2,Estrategia Y Ventaja Competitiva,1,1,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+4,Fundamentos De Programación,1,2,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+7,Administración De Operaciones,2,1,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+8,Emprendimiento,2,1,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+10,Big Data Analytics,2,2,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+13,Mercadotecnia Estratégica,3,1,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+14,Administración Del Talento Humano,3,1,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+16,Derecho Corporativo,3,2,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+19,Análisis De Estados Financieros,4,1,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+20,Bienestar Y Significado En El Trabajo,4,1,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+22,Mercadotecnia Digital,4,2,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+25,Consultoría Administrativa,5,1,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+26,Administración de Proyectos,5,1,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+28,Compras Y Desarrollo De Proveedores,5,2,Licenciatura en Administración de Empresas,LAE,S24,Tronco Común,0,0,0,0,0,0
+3,SEDI I,1,1,Licenciatura en Administración de Empresas,LAE,S24,SEDI,0,0,I,0,0,0
+6,SEDI II,1,2,Licenciatura en Administración de Empresas,LAE,S24,SEDI,0,0,II,0,0,0
+9,SEDI III,2,1,Licenciatura en Administración de Empresas,LAE,S24,SEDI,0,0,III,0,0,0
+12,SEDI IV,2,2,Licenciatura en Administración de Empresas,LAE,S24,SEDI,0,0,IV,0,0,0
+15,SEDI V,3,1,Licenciatura en Administración de Empresas,LAE,S24,SEDI,0,0,V,0,0,0
+18,SEDI VI,3,2,Licenciatura en Administración de Empresas,LAE,S24,SEDI,0,0,VI,0,0,0
+21,SEDI VII,4,1,Licenciatura en Administración de Empresas,LAE,S24,SEDI,0,0,VII,0,0,0
+24,SEDI VIII,4,2,Licenciatura en Administración de Empresas,LAE,S24,SEDI,0,0,VIII,0,0,0
+27,SEDI IX,5,1,Licenciatura en Administración de Empresas,LAE,S24,SEDI,0,0,IX,0,0,0
+30,SEDI X,5,2,Licenciatura en Administración de Empresas,LAE,S24,SEDI,0,0,X,0,0,0
+33,SEDI XI,6,1,Licenciatura en Administración de Empresas,LAE,S24,SEDI,0,0,XI,0,0,0
+36,SEDI XII,6,2,Licenciatura en Administración de Empresas,LAE,S24,SEDI,0,0,XII,0,0,0
+39,SEDI XIII,7,1,Licenciatura en Administración de Empresas,LAE,S24,SEDI,0,0,XIII,0,0,0
+42,SEDI XIV,7,2,Licenciatura en Administración de Empresas,LAE,S24,SEDI,0,0,XIV,0,0,0
+5,Inglés I,1,2,Licenciatura en Administración de Empresas,LAE,S24,Lenguaje,0,I,0,0,0,0
+11,Inglés II,2,2,Licenciatura en Administración de Empresas,LAE,S24,Lenguaje,0,II,0,0,0,0
+17,Inglés III,3,2,Licenciatura en Administración de Empresas,LAE,S24,Lenguaje,0,III,0,0,0,0
+23,Inglés IV,4,2,Licenciatura en Administración de Empresas,LAE,S24,Lenguaje,0,IV,0,0,0,0
+29,Inglés V,5,2,Licenciatura en Administración de Empresas,LAE,S24,Lenguaje,0,V,0,0,0,0
+35,Inglés VI,6,2,Licenciatura en Administración de Empresas,LAE,S24,Lenguaje,0,VI,0,0,0,0
+41,Inglés VII,7,2,Licenciatura en Administración de Empresas,LAE,S24,Lenguaje,0,VII,0,0,0,0
+43,Estancia Empresarial I,8,1,Licenciatura en Administración de Empresas,LAE,S24,Estancia Empresarial,0,0,0,I,0,0
+44,Estancia Empresarial II,8,1,Licenciatura en Administración de Empresas,LAE,S24,Estancia Empresarial,0,0,0,II,0,0
+45,Estancia Empresarial III,8,2,Licenciatura en Administración de Empresas,LAE,S24,Estancia Empresarial,0,0,0,III,0,0
+31,Operaciones Básicas De La Industria Turística,6,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,I,0,0,0,Turismo,LAE_Turismo
+32,Servicio Y Experiencia,6,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,II,0,0,0,Turismo,LAE_Turismo
+34,Gestión De Alimentos Y Bebidas,6,2,Licenciatura en Administración de Empresas,LAE,S24,Optativa,III,0,0,0,Turismo,LAE_Turismo
+37,Operaciones Hoteleras,7,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,IV,0,0,0,Turismo,LAE_Turismo
+38,Ventas Directas,7,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,V,0,0,0,Turismo,LAE_Turismo
+40,Turismo Cultural En México,7,2,Licenciatura en Administración de Empresas,LAE,S24,Optativa,VI,0,0,0,Turismo,LAE_Turismo
+31,Innovación Efectiva,6,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,I,0,0,0,Liderazgo E Innovación,LAE_Liderazgo E Innovación
+32,Creatividad Y Disrupción,6,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,II,0,0,0,Liderazgo E Innovación,LAE_Liderazgo E Innovación
+34,Modelos De Negocios,6,2,Licenciatura en Administración de Empresas,LAE,S24,Optativa,III,0,0,0,Liderazgo E Innovación,LAE_Liderazgo E Innovación
+37,Liderazgo Estratégico,7,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,IV,0,0,0,Liderazgo E Innovación,LAE_Liderazgo E Innovación
+38,Habilidades Directivas,7,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,V,0,0,0,Liderazgo E Innovación,LAE_Liderazgo E Innovación
+40,Ética Empresarial,7,2,Licenciatura en Administración de Empresas,LAE,S24,Optativa,VI,0,0,0,Liderazgo E Innovación,LAE_Liderazgo E Innovación
+31,Servicio Y Experiencia Al Cliente,6,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,I,0,0,0,Gestión De Ventas Estratégicas,LAE_Gestión De Ventas Estratégicas
+32,Negociación Y Comunicación Comercial,6,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,II,0,0,0,Gestión De Ventas Estratégicas,LAE_Gestión De Ventas Estratégicas
+34,Habilidades Para La Venta,6,2,Licenciatura en Administración de Empresas,LAE,S24,Optativa,III,0,0,0,Gestión De Ventas Estratégicas,LAE_Gestión De Ventas Estratégicas
+37,Administración De Equipos De Venta,7,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,IV,0,0,0,Gestión De Ventas Estratégicas,LAE_Gestión De Ventas Estratégicas
+38,Administración De Cuentas Clave,7,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,V,0,0,0,Gestión De Ventas Estratégicas,LAE_Gestión De Ventas Estratégicas
+40,Administración Y Promoción De Ventas,7,2,Licenciatura en Administración de Empresas,LAE,S24,Optativa,VI,0,0,0,Gestión De Ventas Estratégicas,LAE_Gestión De Ventas Estratégicas
+31,Atracción Del Capital Humano,6,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,I,0,0,0,Gestión Del Capital Humano,LAE_Gestión Del Capital Humano
+32,Gestión De Compensaciones,6,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,II,0,0,0,Gestión Del Capital Humano,LAE_Gestión Del Capital Humano
+34,"Relaciones Laborales, Seguridad E Higiene",6,2,Licenciatura en Administración de Empresas,LAE,S24,Optativa,III,0,0,0,Gestión Del Capital Humano,LAE_Gestión Del Capital Humano
+37,Aprendizaje Organizacional,7,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,IV,0,0,0,Gestión Del Capital Humano,LAE_Gestión Del Capital Humano
+38,Desarrollo Organizacional,7,1,Licenciatura en Administración de Empresas,LAE,S24,Optativa,V,0,0,0,Gestión Del Capital Humano,LAE_Gestión Del Capital Humano
+40,Administración Del Cambio,7,2,Licenciatura en Administración de Empresas,LAE,S24,Optativa,VI,0,0,0,Gestión Del Capital Humano,LAE_Gestión Del Capital Humano
