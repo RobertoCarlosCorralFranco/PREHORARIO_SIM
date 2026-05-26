@@ -7,3 +7,6 @@ __pycache__/
 
 # Archivos del sistema operativo
 .DS_Store
+
+# Bases de datos locales
+*.db
