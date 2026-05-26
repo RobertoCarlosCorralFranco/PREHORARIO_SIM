@@ -4,12 +4,20 @@ import pandas as pd
 from fpdf import FPDF
 from datetime import datetime
 import time
+import os  # <-- Asegúrate de agregar esta librería
+
+# --- MAGIA PARA LA NUBE: Si la BD no existe, la crea automáticamente ---
+if not os.path.exists('tecmilenio_maps.db'):
+    import crear_bd
+    crear_bd.initialize_database()
 
 # --- Capa de Acceso a Datos ---
 def get_db_connection():
     conn = sqlite3.connect('tecmilenio_maps.db')
     conn.row_factory = sqlite3.Row 
     return conn
+
+# ... (El resto de tu código se queda exactamente igual)
 
 def fetch_student_data(student_id):
     conn = get_db_connection()
